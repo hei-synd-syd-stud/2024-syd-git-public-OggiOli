@@ -34,6 +34,8 @@ Le fichier "README.md" est listé dans la section "Changes not staged for commit
 
 ### Task 6
 
+lorsque nous effectuons un checkout vers un commit antérieur, Git ajuste les fichiers du projet pour refléter cet instant précis, autrement dit il cache les commits qui suivent. En revenant sur le main, cela restaure les fichiers dans leur état du dernier commit de la branche main.
+
 ## Gitgraph
 
 ### Task 7
